@@ -1,0 +1,1028 @@
+
+/*---------2022-11-03 14:59:37---------*/
+GET /html/yijing.html HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://scentors7/html/huangdi.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23099
+
+/*---------2022-11-03 14:59:37---------*/
+GET /css/study.css HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/css,*/*;q=0.1
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23100
+
+/*---------2022-11-03 14:59:37---------*/
+GET /img/yijing.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23502
+
+/*---------2022-11-03 14:59:37---------*/
+GET /img/baguatu.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23503
+
+/*---------2022-11-03 14:59:37---------*/
+GET /img/dikun.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23505
+
+/*---------2022-11-03 14:59:37---------*/
+GET /img/shangen.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23506
+
+/*---------2022-11-03 14:59:37---------*/
+GET /img/lenzhen.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23507
+
+/*---------2022-11-03 14:59:37---------*/
+GET /img/fengxun.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23504
+
+/*---------2022-11-03 14:59:39---------*/
+GET /img/fire.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23710
+
+/*---------2022-11-03 14:59:39---------*/
+GET /img/water.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23711
+
+/*---------2022-11-03 14:59:39---------*/
+GET /img/zedui.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23712
+
+/*---------2022-11-03 14:59:39---------*/
+GET /img/gezhiluntan.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/html/yijing.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 23739
+
+/*---------2022-11-03 15:07:57---------*/
+GET / HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37814
+
+/*---------2022-11-03 15:07:57---------*/
+GET /css/index.css HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37818
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/leishen.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37824
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/ganshin.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37827
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/zhongyi.jpeg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37826
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/lightning.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37825
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/stone.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37823
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/shennong.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37832
+
+/*---------2022-11-03 15:07:57---------*/
+GET /img/backgrand2.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/css/index.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37859
+
+/*---------2022-11-03 15:07:58---------*/
+GET /img/huandi.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 37967
+
+/*---------2022-11-03 15:07:59---------*/
+GET /img/zhouyi.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 38157
+
+/*---------2022-11-03 15:07:59---------*/
+GET /img/SQL.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 38282
+
+/*---------2022-11-03 15:08:00---------*/
+GET /img/anconada.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 38369
+
+/*---------2022-11-03 15:08:00---------*/
+GET /img/unity.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 38399
+
+/*---------2022-11-03 15:08:04---------*/
+GET / HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39124
+
+/*---------2022-11-03 15:08:04---------*/
+GET /css/index.css HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39125
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/leishen.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39134
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/ganshin.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39135
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/stone.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39136
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/lightning.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39138
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/zhongyi.jpeg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39137
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/backgrand2.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/css/index.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39140
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/shennong.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39165
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/huandi.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39169
+
+/*---------2022-11-03 15:08:04---------*/
+GET /img/zhouyi.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39179
+
+/*---------2022-11-03 15:08:05---------*/
+GET /img/SQL.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39288
+
+/*---------2022-11-03 15:08:06---------*/
+GET /img/anconada.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39493
+
+/*---------2022-11-03 15:08:06---------*/
+GET /img/unity.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 39505
+
+/*---------2022-11-03 15:08:11---------*/
+GET /favicon.ico HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 40251
+
+/*---------2022-11-03 15:09:05---------*/
+GET / HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47711
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/ganshin.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47725
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/leishen.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47723
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/stone.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47724
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/lightning.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47727
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/zhongyi.jpeg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47726
+
+/*---------2022-11-03 15:09:05---------*/
+GET /css/index.css HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47713
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/shennong.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47732
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/backgrand2.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/css/index.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47737
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/huandi.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47750
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/zhouyi.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47776
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/SQL.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47778
+
+/*---------2022-11-03 15:09:05---------*/
+GET /img/anconada.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47825
+
+/*---------2022-11-03 15:09:06---------*/
+GET /img/unity.jpg HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://scentors7/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+60.191.251.188: 47860
+
+/*---------2022-11-03 15:09:37---------*/
+GET / HTTP/1.1
+Host: scentors7
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 52526
+
+/*---------2022-11-03 15:09:41---------*/
+GET / HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53124
+
+/*---------2022-11-03 15:09:41---------*/
+GET /css/index.css HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/css,*/*;q=0.1
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53125
+
+/*---------2022-11-03 15:09:41---------*/
+GET /img/leishen.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53134
+
+/*---------2022-11-03 15:09:41---------*/
+GET /img/ganshin.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53144
+
+/*---------2022-11-03 15:09:41---------*/
+GET /img/stone.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53147
+
+/*---------2022-11-03 15:09:41---------*/
+GET /img/shennong.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53148
+
+/*---------2022-11-03 15:09:41---------*/
+GET /img/lightning.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53146
+
+/*---------2022-11-03 15:09:41---------*/
+GET /img/zhongyi.jpeg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53145
+
+/*---------2022-11-03 15:09:42---------*/
+GET /img/backgrand2.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/css/index.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53168
+
+/*---------2022-11-03 15:09:42---------*/
+GET /img/huandi.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53182
+
+/*---------2022-11-03 15:09:42---------*/
+GET /img/zhouyi.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53228
+
+/*---------2022-11-03 15:09:42---------*/
+GET /img/SQL.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53229
+
+/*---------2022-11-03 15:09:42---------*/
+GET /img/anconada.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53287
+
+/*---------2022-11-03 15:09:43---------*/
+GET /img/unity.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 53413
+
+/*---------2022-11-03 15:09:50---------*/
+GET /favicon.ico HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 54873
+
+/*---------2022-11-03 15:10:30---------*/
+GET /html/computer.html HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://43.142.89.113/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 54875
+
+/*---------2022-11-03 15:10:30---------*/
+GET /css/compute.css HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: text/css,*/*;q=0.1
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61146
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/cyuzhizhen.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61156
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/cpppls.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61159
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/essencpp.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61157
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/jv1.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61160
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/cyuxj.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61158
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/jv3.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61161
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/isoiec.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61182
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/intel.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61184
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/py3.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61190
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/pycksc.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61192
+
+/*---------2022-11-03 15:10:30---------*/
+GET /img/jvsjms.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61187
+
+/*---------2022-11-03 15:10:31---------*/
+GET /img/c99.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61368
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/pyxxsc.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61377
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/sjjgysf.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61392
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/jianzhiof.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61400
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/dahuasjjg.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61408
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/sfdaolun.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61410
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/yxjgsj.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61455
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/yxjsby.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61462
+
+/*---------2022-11-03 15:10:32---------*/
+GET /img/yxkf.jpg HTTP/1.1
+Host: 43.142.89.113
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://43.142.89.113/html/computer.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+60.191.251.188: 61476
